@@ -13,13 +13,31 @@
 		1DE4E5CC270A5CCE004A30CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DE4E5CA270A5CCE004A30CA /* Main.storyboard */; };
 		1DE4E5CE270A5CD0004A30CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DE4E5CD270A5CD0004A30CA /* Assets.xcassets */; };
 		1DE4E5D1270A5CD0004A30CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DE4E5CF270A5CD0004A30CA /* LaunchScreen.storyboard */; };
-		B40A167C270DD936004E594A /* SecureFEFUTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = B40A167B270DD936004E594A /* SecureFEFUTextField.swift */; };
-		B40A1681270DF7D6004E594A /* SignUpController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B40A167F270DF7D6004E594A /* SignUpController.swift */; };
-		B40A1682270DF7D6004E594A /* SignUpController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B40A1680270DF7D6004E594A /* SignUpController.xib */; };
-		B433AEC1270ED759004A6CB1 /* SignInController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B433AEBF270ED759004A6CB1 /* SignInController.swift */; };
-		B433AEC2270ED759004A6CB1 /* SignInController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B433AEC0270ED759004A6CB1 /* SignInController.xib */; };
-		B452D057270DB88800FA4262 /* SignFEFUTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = B452D056270DB88800FA4262 /* SignFEFUTextField.swift */; };
-		B490BB98270ACED100F11E64 /* ActivityFEFUButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B490BB97270ACED100F11E64 /* ActivityFEFUButton.swift */; };
+		2C01746127198F5500154C57 /* SF-Pro-Display-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2C01746027198F5500154C57 /* SF-Pro-Display-Regular.otf */; };
+		2C1426582769E2C400B82CF8 /* RegistrationControllet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C1426572769E2C400B82CF8 /* RegistrationControllet.swift */; };
+		2C142661276B10D900B82CF8 /* ConnectToBackend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C142660276B10D900B82CF8 /* ConnectToBackend.swift */; };
+		2C142663276B112500B82CF8 /* ModelsForAuth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C142662276B112500B82CF8 /* ModelsForAuth.swift */; };
+		2C142665276B174B00B82CF8 /* LoginController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C142664276B174B00B82CF8 /* LoginController.swift */; };
+		2C142669276B471800B82CF8 /* MainTableController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C142667276B471800B82CF8 /* MainTableController.swift */; };
+		2C14266A276B471800B82CF8 /* MainTableController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2C142668276B471800B82CF8 /* MainTableController.xib */; };
+		2C4A210D2719B1E900AE6331 /* fefu_button_type_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4A210C2719B1E900AE6331 /* fefu_button_type_1.swift */; };
+		2C699A26275F273400DCF8C5 /* Active_activity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C699A25275F273400DCF8C5 /* Active_activity.swift */; };
+		2C699A28275F49B400DCF8C5 /* Run_activity_container.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C699A27275F49B400DCF8C5 /* Run_activity_container.swift */; };
+		2C699A2A275F4C6200DCF8C5 /* Run_activity_controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C699A29275F4C6200DCF8C5 /* Run_activity_controller.swift */; };
+		2C9E4691273E4B0800B26FE4 /* OneStatementInActivityTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2C9E468F273E4B0800B26FE4 /* OneStatementInActivityTableViewCell.xib */; };
+		2C9E4693273F863D00B26FE4 /* location_data_struct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9E4692273F863D00B26FE4 /* location_data_struct.swift */; };
+		2C9E46962741062F00B26FE4 /* fefuactivity.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2C9E46942741062F00B26FE4 /* fefuactivity.xcdatamodeld */; };
+		2C9E46992741195F00B26FE4 /* FEFUCoreDataContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9E46982741195F00B26FE4 /* FEFUCoreDataContainer.swift */; };
+		2CBE37EC27291CBA009BC25C /* fefu_button_light_blue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CBE37EB27291CBA009BC25C /* fefu_button_light_blue.swift */; };
+		2CC209C2271AAA6900D5453C /* fefu_text_field_type1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CC209C1271AAA6900D5453C /* fefu_text_field_type1.swift */; };
+		2CC209C4271AB8E200D5453C /* custom_navigation_item_type1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CC209C3271AB8E200D5453C /* custom_navigation_item_type1.swift */; };
+		2CC9ED46273BF40000100143 /* StartTrackLocateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CC9ED45273BF40000100143 /* StartTrackLocateViewController.swift */; };
+		2CD15AF2272A5F490072C3BB /* ViewContollerActivnostiEmpty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CD15AF1272A5F490072C3BB /* ViewContollerActivnostiEmpty.swift */; };
+		2CD15AF3272A603B0072C3BB /* SF-Pro-Display-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2CD15AEA272A5E460072C3BB /* SF-Pro-Display-Bold.otf */; };
+		2CFB53FF2757B43D00DC6F99 /* OneStatementInActivityTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C9E468E273E4B0800B26FE4 /* OneStatementInActivityTableViewCell.swift */; };
+		2CFB540E275A36C400DC6F99 /* StartTrackingViewWithCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CFB540D275A36C400DC6F99 /* StartTrackingViewWithCollection.swift */; };
+		2CFB5415275A477B00DC6F99 /* CollectionViewCellStartTracking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CFB5413275A477B00DC6F99 /* CollectionViewCellStartTracking.swift */; };
+		2CFB5416275A477B00DC6F99 /* CollectionViewCellStartTracking.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2CFB5414275A477B00DC6F99 /* CollectionViewCellStartTracking.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,13 +49,31 @@
 		1DE4E5CD270A5CD0004A30CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1DE4E5D0270A5CD0004A30CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1DE4E5D2270A5CD0004A30CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B40A167B270DD936004E594A /* SecureFEFUTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecureFEFUTextField.swift; sourceTree = "<group>"; };
-		B40A167F270DF7D6004E594A /* SignUpController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpController.swift; sourceTree = "<group>"; };
-		B40A1680270DF7D6004E594A /* SignUpController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SignUpController.xib; sourceTree = "<group>"; };
-		B433AEBF270ED759004A6CB1 /* SignInController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInController.swift; sourceTree = "<group>"; };
-		B433AEC0270ED759004A6CB1 /* SignInController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SignInController.xib; sourceTree = "<group>"; };
-		B452D056270DB88800FA4262 /* SignFEFUTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignFEFUTextField.swift; sourceTree = "<group>"; };
-		B490BB97270ACED100F11E64 /* ActivityFEFUButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityFEFUButton.swift; sourceTree = "<group>"; };
+		2C01746027198F5500154C57 /* SF-Pro-Display-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "SF-Pro-Display-Regular.otf"; path = "../../../../../../../Library/Fonts/SF-Pro-Display-Regular.otf"; sourceTree = "<group>"; };
+		2C1426572769E2C400B82CF8 /* RegistrationControllet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationControllet.swift; sourceTree = "<group>"; };
+		2C142660276B10D900B82CF8 /* ConnectToBackend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectToBackend.swift; sourceTree = "<group>"; };
+		2C142662276B112500B82CF8 /* ModelsForAuth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelsForAuth.swift; sourceTree = "<group>"; };
+		2C142664276B174B00B82CF8 /* LoginController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginController.swift; sourceTree = "<group>"; };
+		2C142667276B471800B82CF8 /* MainTableController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTableController.swift; sourceTree = "<group>"; };
+		2C142668276B471800B82CF8 /* MainTableController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainTableController.xib; sourceTree = "<group>"; };
+		2C4A210C2719B1E900AE6331 /* fefu_button_type_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fefu_button_type_1.swift; sourceTree = "<group>"; };
+		2C699A25275F273400DCF8C5 /* Active_activity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Active_activity.swift; sourceTree = "<group>"; };
+		2C699A27275F49B400DCF8C5 /* Run_activity_container.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Run_activity_container.swift; sourceTree = "<group>"; };
+		2C699A29275F4C6200DCF8C5 /* Run_activity_controller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Run_activity_controller.swift; sourceTree = "<group>"; };
+		2C9E468E273E4B0800B26FE4 /* OneStatementInActivityTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OneStatementInActivityTableViewCell.swift; sourceTree = "<group>"; };
+		2C9E468F273E4B0800B26FE4 /* OneStatementInActivityTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = OneStatementInActivityTableViewCell.xib; sourceTree = "<group>"; };
+		2C9E4692273F863D00B26FE4 /* location_data_struct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = location_data_struct.swift; sourceTree = "<group>"; };
+		2C9E46952741062F00B26FE4 /* fefuactivity.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = fefuactivity.xcdatamodel; sourceTree = "<group>"; };
+		2C9E46982741195F00B26FE4 /* FEFUCoreDataContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FEFUCoreDataContainer.swift; sourceTree = "<group>"; };
+		2CBE37EB27291CBA009BC25C /* fefu_button_light_blue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fefu_button_light_blue.swift; sourceTree = "<group>"; };
+		2CC209C1271AAA6900D5453C /* fefu_text_field_type1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fefu_text_field_type1.swift; sourceTree = "<group>"; };
+		2CC209C3271AB8E200D5453C /* custom_navigation_item_type1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = custom_navigation_item_type1.swift; sourceTree = "<group>"; };
+		2CC9ED45273BF40000100143 /* StartTrackLocateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartTrackLocateViewController.swift; sourceTree = "<group>"; };
+		2CD15AEA272A5E460072C3BB /* SF-Pro-Display-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "SF-Pro-Display-Bold.otf"; path = "../../../../../Downloads/San Francisco Pro Text 2/SF-Pro-Display-Bold.otf"; sourceTree = "<group>"; };
+		2CD15AF1272A5F490072C3BB /* ViewContollerActivnostiEmpty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewContollerActivnostiEmpty.swift; sourceTree = "<group>"; };
+		2CFB540D275A36C400DC6F99 /* StartTrackingViewWithCollection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartTrackingViewWithCollection.swift; sourceTree = "<group>"; };
+		2CFB5413275A477B00DC6F99 /* CollectionViewCellStartTracking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCellStartTracking.swift; sourceTree = "<group>"; };
+		2CFB5414275A477B00DC6F99 /* CollectionViewCellStartTracking.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CollectionViewCellStartTracking.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,22 +106,128 @@
 		1DE4E5C3270A5CCE004A30CA /* fefuactivity */ = {
 			isa = PBXGroup;
 			children = (
-				B452D056270DB88800FA4262 /* SignFEFUTextField.swift */,
+				2C14265F276B108B00B82CF8 /* backend */,
+				2CFB540C275A367700DC6F99 /* Views */,
+				2C9E46972741191800B26FE4 /* CoreData */,
+				2C9E4688273E49CF00B26FE4 /* Cells */,
+				2CD15AEC272A5EA40072C3BB /* navigationItems */,
+				2CD15AEB272A5E820072C3BB /* viewControllers */,
+				2CD15AE2272A5D7A0072C3BB /* textFields */,
+				2CD15AE1272A5CDE0072C3BB /* buttons */,
 				1DE4E5C4270A5CCE004A30CA /* AppDelegate.swift */,
 				1DE4E5C6270A5CCE004A30CA /* SceneDelegate.swift */,
-				1DE4E5C8270A5CCE004A30CA /* ViewController.swift */,
 				1DE4E5CA270A5CCE004A30CA /* Main.storyboard */,
 				1DE4E5CD270A5CD0004A30CA /* Assets.xcassets */,
-				1DE4E5CF270A5CD0004A30CA /* LaunchScreen.storyboard */,
 				1DE4E5D2270A5CD0004A30CA /* Info.plist */,
-				B490BB97270ACED100F11E64 /* ActivityFEFUButton.swift */,
-				B40A167B270DD936004E594A /* SecureFEFUTextField.swift */,
-				B40A167F270DF7D6004E594A /* SignUpController.swift */,
-				B40A1680270DF7D6004E594A /* SignUpController.xib */,
-				B433AEBF270ED759004A6CB1 /* SignInController.swift */,
-				B433AEC0270ED759004A6CB1 /* SignInController.xib */,
+				1DE4E5CF270A5CD0004A30CA /* LaunchScreen.storyboard */,
+				2C01746027198F5500154C57 /* SF-Pro-Display-Regular.otf */,
+				2CD15AEA272A5E460072C3BB /* SF-Pro-Display-Bold.otf */,
+				2C9E46942741062F00B26FE4 /* fefuactivity.xcdatamodeld */,
 			);
 			path = fefuactivity;
+			sourceTree = "<group>";
+		};
+		2C14265F276B108B00B82CF8 /* backend */ = {
+			isa = PBXGroup;
+			children = (
+				2C142660276B10D900B82CF8 /* ConnectToBackend.swift */,
+				2C142662276B112500B82CF8 /* ModelsForAuth.swift */,
+			);
+			path = backend;
+			sourceTree = "<group>";
+		};
+		2C142666276B423400B82CF8 /* MainViewController */ = {
+			isa = PBXGroup;
+			children = (
+				2C142667276B471800B82CF8 /* MainTableController.swift */,
+				2C142668276B471800B82CF8 /* MainTableController.xib */,
+			);
+			path = MainViewController;
+			sourceTree = "<group>";
+		};
+		2C9E4688273E49CF00B26FE4 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				2CFB5409275A2EE400DC6F99 /* Cell_In_StartTracking_Collection */,
+				2C9E4689273E4A0400B26FE4 /* OneStatementInActivity */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		2C9E4689273E4A0400B26FE4 /* OneStatementInActivity */ = {
+			isa = PBXGroup;
+			children = (
+				2C9E468E273E4B0800B26FE4 /* OneStatementInActivityTableViewCell.swift */,
+				2C9E468F273E4B0800B26FE4 /* OneStatementInActivityTableViewCell.xib */,
+				2C9E4692273F863D00B26FE4 /* location_data_struct.swift */,
+			);
+			path = OneStatementInActivity;
+			sourceTree = "<group>";
+		};
+		2C9E46972741191800B26FE4 /* CoreData */ = {
+			isa = PBXGroup;
+			children = (
+				2C9E46982741195F00B26FE4 /* FEFUCoreDataContainer.swift */,
+			);
+			path = CoreData;
+			sourceTree = "<group>";
+		};
+		2CD15AE1272A5CDE0072C3BB /* buttons */ = {
+			isa = PBXGroup;
+			children = (
+				2CBE37EB27291CBA009BC25C /* fefu_button_light_blue.swift */,
+				2C4A210C2719B1E900AE6331 /* fefu_button_type_1.swift */,
+			);
+			path = buttons;
+			sourceTree = "<group>";
+		};
+		2CD15AE2272A5D7A0072C3BB /* textFields */ = {
+			isa = PBXGroup;
+			children = (
+				2CC209C1271AAA6900D5453C /* fefu_text_field_type1.swift */,
+			);
+			path = textFields;
+			sourceTree = "<group>";
+		};
+		2CD15AEB272A5E820072C3BB /* viewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				2C142666276B423400B82CF8 /* MainViewController */,
+				1DE4E5C8270A5CCE004A30CA /* ViewController.swift */,
+				2CD15AF1272A5F490072C3BB /* ViewContollerActivnostiEmpty.swift */,
+				2CC9ED45273BF40000100143 /* StartTrackLocateViewController.swift */,
+				2C699A29275F4C6200DCF8C5 /* Run_activity_controller.swift */,
+				2C1426572769E2C400B82CF8 /* RegistrationControllet.swift */,
+				2C142664276B174B00B82CF8 /* LoginController.swift */,
+			);
+			path = viewControllers;
+			sourceTree = "<group>";
+		};
+		2CD15AEC272A5EA40072C3BB /* navigationItems */ = {
+			isa = PBXGroup;
+			children = (
+				2CC209C3271AB8E200D5453C /* custom_navigation_item_type1.swift */,
+			);
+			path = navigationItems;
+			sourceTree = "<group>";
+		};
+		2CFB5409275A2EE400DC6F99 /* Cell_In_StartTracking_Collection */ = {
+			isa = PBXGroup;
+			children = (
+				2CFB5413275A477B00DC6F99 /* CollectionViewCellStartTracking.swift */,
+				2CFB5414275A477B00DC6F99 /* CollectionViewCellStartTracking.xib */,
+			);
+			path = Cell_In_StartTracking_Collection;
+			sourceTree = "<group>";
+		};
+		2CFB540C275A367700DC6F99 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				2CFB540D275A36C400DC6F99 /* StartTrackingViewWithCollection.swift */,
+				2C699A25275F273400DCF8C5 /* Active_activity.swift */,
+				2C699A27275F49B400DCF8C5 /* Run_activity_container.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -119,6 +261,7 @@
 				TargetAttributes = {
 					1DE4E5C0270A5CCE004A30CA = {
 						CreatedOnToolsVersion = 12.5;
+						LastSwiftMigration = 1250;
 					};
 				};
 			};
@@ -146,10 +289,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				1DE4E5D1270A5CD0004A30CA /* LaunchScreen.storyboard in Resources */,
+				2C14266A276B471800B82CF8 /* MainTableController.xib in Resources */,
+				2CD15AF3272A603B0072C3BB /* SF-Pro-Display-Bold.otf in Resources */,
+				2C9E4691273E4B0800B26FE4 /* OneStatementInActivityTableViewCell.xib in Resources */,
 				1DE4E5CE270A5CD0004A30CA /* Assets.xcassets in Resources */,
+				2C01746127198F5500154C57 /* SF-Pro-Display-Regular.otf in Resources */,
+				2CFB5416275A477B00DC6F99 /* CollectionViewCellStartTracking.xib in Resources */,
 				1DE4E5CC270A5CCE004A30CA /* Main.storyboard in Resources */,
-				B40A1682270DF7D6004E594A /* SignUpController.xib in Resources */,
-				B433AEC2270ED759004A6CB1 /* SignInController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -160,14 +306,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B40A167C270DD936004E594A /* SecureFEFUTextField.swift in Sources */,
+				2CC9ED46273BF40000100143 /* StartTrackLocateViewController.swift in Sources */,
+				2CFB53FF2757B43D00DC6F99 /* OneStatementInActivityTableViewCell.swift in Sources */,
+				2C9E46992741195F00B26FE4 /* FEFUCoreDataContainer.swift in Sources */,
+				2C1426582769E2C400B82CF8 /* RegistrationControllet.swift in Sources */,
+				2C142669276B471800B82CF8 /* MainTableController.swift in Sources */,
+				2CFB540E275A36C400DC6F99 /* StartTrackingViewWithCollection.swift in Sources */,
+				2CC209C2271AAA6900D5453C /* fefu_text_field_type1.swift in Sources */,
+				2C142663276B112500B82CF8 /* ModelsForAuth.swift in Sources */,
+				2C699A2A275F4C6200DCF8C5 /* Run_activity_controller.swift in Sources */,
+				2C142665276B174B00B82CF8 /* LoginController.swift in Sources */,
+				2CD15AF2272A5F490072C3BB /* ViewContollerActivnostiEmpty.swift in Sources */,
 				1DE4E5C9270A5CCE004A30CA /* ViewController.swift in Sources */,
-				B40A1681270DF7D6004E594A /* SignUpController.swift in Sources */,
-				B452D057270DB88800FA4262 /* SignFEFUTextField.swift in Sources */,
+				2C699A26275F273400DCF8C5 /* Active_activity.swift in Sources */,
+				2CFB5415275A477B00DC6F99 /* CollectionViewCellStartTracking.swift in Sources */,
+				2C4A210D2719B1E900AE6331 /* fefu_button_type_1.swift in Sources */,
+				2CC209C4271AB8E200D5453C /* custom_navigation_item_type1.swift in Sources */,
 				1DE4E5C5270A5CCE004A30CA /* AppDelegate.swift in Sources */,
-				B433AEC1270ED759004A6CB1 /* SignInController.swift in Sources */,
-				B490BB98270ACED100F11E64 /* ActivityFEFUButton.swift in Sources */,
 				1DE4E5C7270A5CCE004A30CA /* SceneDelegate.swift in Sources */,
+				2C699A28275F49B400DCF8C5 /* Run_activity_container.swift in Sources */,
+				2CBE37EC27291CBA009BC25C /* fefu_button_light_blue.swift in Sources */,
+				2C9E46962741062F00B26FE4 /* fefuactivity.xcdatamodeld in Sources */,
+				2C9E4693273F863D00B26FE4 /* location_data_struct.swift in Sources */,
+				2C142661276B10D900B82CF8 /* ConnectToBackend.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -314,16 +475,20 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 7MH4VYPRKR;
+				DEVELOPMENT_TEAM = 8TR8W5838U;
 				INFOPLIST_FILE = fefuactivity/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = io.egorblinov.fefuactivity;
+				PRODUCT_BUNDLE_IDENTIFIER = HelloWorld12345;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -334,15 +499,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 7MH4VYPRKR;
+				DEVELOPMENT_TEAM = 8TR8W5838U;
 				INFOPLIST_FILE = fefuactivity/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = io.egorblinov.fefuactivity;
+				PRODUCT_BUNDLE_IDENTIFIER = tckachenko.ei.;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -371,6 +537,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		2C9E46942741062F00B26FE4 /* fefuactivity.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				2C9E46952741062F00B26FE4 /* fefuactivity.xcdatamodel */,
+			);
+			currentVersion = 2C9E46952741062F00B26FE4 /* fefuactivity.xcdatamodel */;
+			path = fefuactivity.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 1DE4E5B9270A5CCE004A30CA /* Project object */;
 }
